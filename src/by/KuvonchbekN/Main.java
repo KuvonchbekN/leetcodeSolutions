@@ -3,6 +3,8 @@ package by.KuvonchbekN;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	int sum = 0;
+
+        System.out.println(sum);
     }
 }
